@@ -6,12 +6,12 @@
 
 - 🔭 Eu estou trabalhando com:
   
-  <p>•	Linguagens: C#; Asp.Net; Java; Html; Css; JavaScript; SQL;</p>  
-  •	Frameworks: VueJS; .Net, .Net Core
-  •	Base de dados: SQL Server;  MySql; MariaDB; MongoDB; HeidiSQL; 
-  •	Versionamento de código: Git; BitBucket; SmartGit; WinMerge.
-  •	Documentacao: Swagger
-  •	IDEs: VS code, Visual Studio, Eclipse
+  <p>•	Linguagens: C#, Asp.Net, Java, Html, Css, JavaScript, SQL;</p>  
+  <p>•	Frameworks: VueJS, .Net, .Net Core</p>
+  <p>•	Base de dados: SQL Server,  MySql, MariaDB, MongoDB, HeidiSQL;</p> 
+  <p>•	Versionamento de código: Git, BitBucket, SmartGit, WinMerge;</p>
+  <p>•	Documentacao: Swagger;</p>
+  <p>•	IDEs: VS code, Visual Studio, Eclipse.</p>
 
 - 📫 Pode me contatar em: carloshenriqueba@hotmail.com
 
