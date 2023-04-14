@@ -4,8 +4,14 @@
   <a href="https://github.com/carloshenrique93">
 </div>
 
-- 🔭 Eu estou trabalhando com back-end
-- 🌱 Eu estou estudando Vue.JS
+- 🔭 Eu estou trabalhando com:
+  •	Linguagens: C#; Asp.Net; Java; Html; Css; JavaScript; SQL;  
+  •	Frameworks: VueJS; .Net, .Net Core
+  •	Base de dados: SQL Server;  MySql; MariaDB; MongoDB; HeidiSQL; 
+  •	Versionamento de código: Git; BitBucket; SmartGit; WinMerge.
+  •	Documentacao: Swagger
+  •	IDEs: VS code, Visual Studio, Eclipse
+
 - 📫 Pode me contatar em: carloshenriqueba@hotmail.com
 
 <div style="display: inline_block"><br>
