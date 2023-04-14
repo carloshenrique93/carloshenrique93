@@ -5,7 +5,8 @@
 </div>
 
 - 🔭 Eu estou trabalhando com:
-  •	Linguagens: C#; Asp.Net; Java; Html; Css; JavaScript; SQL;  
+  
+  <p>•	Linguagens: C#; Asp.Net; Java; Html; Css; JavaScript; SQL;</p>  
   •	Frameworks: VueJS; .Net, .Net Core
   •	Base de dados: SQL Server;  MySql; MariaDB; MongoDB; HeidiSQL; 
   •	Versionamento de código: Git; BitBucket; SmartGit; WinMerge.
